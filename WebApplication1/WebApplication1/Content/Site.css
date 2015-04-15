@@ -31,6 +31,6 @@ textarea {
 @media only screen and (max-width: 767px) {
     .nofloat {
         float: none;
-        padding: 10px 15px;
+        padding: 10px 15px;        
     }
 }
